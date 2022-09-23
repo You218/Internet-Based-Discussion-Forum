@@ -3,8 +3,8 @@ A simple forum wesbite built with Html,CSS,Javascript and Djang0 as an backend w
 
 
 # How To Setup On Windows
-1. Go to Project Directory `cd Internet-Based-Discussion-Forum-main>`
-2. Create a Virtual Environment `python -m venv env`
+1. Go to Project Directory `cd Internet-Based-Discussion-Forum-main`
+2. 2. Create a Virtual Environment `python -m venv env`
 3. Activate Virtual Environment .venv\scripts\activate
 4. Install Requirements Package `pip install -r requirements.txt`
 5. Migrate Database `python manage.py migrate`
